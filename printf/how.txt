@@ -1,0 +1,17 @@
+evet printfi yazmadan once nasıl calistigini iyice analiz etmeliyiz
+evet aslında sen bu adımı yaptın ama iyi gitmedi demekki kacırdıgın bir
+yerler oldu hadi bunları toparlayalım 
+
+Bildiklerin
+
+printf bir variadic fonksiyondur 
+ilk kisim yani benim ekrana yazdirmak istedigim kisim 
+zorunlu kisimdir 
+ondan sonra virgulle gelenler aslında  benim degisken parametrelerimdir yani
+onlar yerine bir seyler koymam gerekiyor
+burada sunu kastediyorum mesela %s yazdigimda string girmem gibi hedefim aslında 
+degisken parametrelerimden biri oluyor
+int bir deger donduruyor bir de su var makroları var onları simdi aciklamaya usendim
+eheheh
+
+//su ++ nin olayina bakalim
